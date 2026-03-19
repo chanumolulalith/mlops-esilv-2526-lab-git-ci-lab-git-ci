@@ -1,4 +1,4 @@
 Enter your details below:
 
-* first_name: Régis
-* last_name: Kla
+* first_name: Lalith Adithya
+* last_name: Chanumolu

@@ -1,0 +1,212 @@
+[33mcommit 77bfd57a5f7d5022617e9099185e927bf1a90cda[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: chanumolulalith <lalithadithya924@gmail.com>
+Date:   Mon Mar 23 20:13:03 2026 +0100
+
+    Add answer 1.3
+
+[33mcommit 807f920ade2973bf709d1a2318ff7a4473158a00[m[33m ([m[1;31morigin/feature/lchanumolu[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mfeature/lchanumolu[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: chanumolulalith <lalithadithya924@gmail.com>
+Date:   Thu Mar 19 21:41:17 2026 +0100
+
+    Add my identity
+
+[33mcommit d63a78dfb719783c4cf8fb8427c49b5ffdc788c3[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Merge: a3b70dd 6f68b6f
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 10 11:46:55 2026 +0100
+
+    Merge pull request #3 from cours-esilv/main-tmp
+    
+    All checks are okay.
+
+[33mcommit 6f68b6f7bcf895efe411e574cedee93b0739def7[m
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 10 11:46:17 2026 +0100
+
+    Update 1.5
+    
+    moving from "git log -S" to "git log --grep"
+
+[33mcommit 530561bbe9f4a8a05e9ec240bcda5aa1a94901ba[m
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 10 11:43:06 2026 +0100
+
+    Update 1.5
+    
+    from G to g
+
+[33mcommit 398201ff5b8cfcc146d92cb3aac525043e5a0ea6[m
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 10 11:40:08 2026 +0100
+
+    Update 1.9
+    
+    Fixing pull-request arror by pushging all branches to remote
+
+[33mcommit f85911e45a8acd91f1a1072005e82fa1b1649b11[m
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 10 11:36:16 2026 +0100
+
+    Update 1.9
+    
+    Fix the actions error for the checking of file 1.9 content.
+
+[33mcommit a3b70dd33e242bd18085ffcbfc285d6634f60086[m
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 10 11:29:35 2026 +0100
+
+    Update 1.9
+    
+    Trying to fix error raised by the failure of command: grep -q -i -E 'git.*push.*--all' answers/1.9
+
+[33mcommit da77b6d2567388811b86629292859985c01a0eac[m
+Merge: 582e917 94bbdd3
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 10 11:18:25 2026 +0100
+
+    Merge pull request #2 from cours-esilv/feature/rkla
+    
+    Feature/rkla
+
+[33mcommit 94bbdd39b59ce4b840fecf1bc34add3869680419[m
+Merge: b95dc2b 582e917
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 10 11:18:09 2026 +0100
+
+    Merge branch 'main' into feature/rkla
+
+[33mcommit b95dc2b810029bada7ad419fa484ccf066fa269a[m
+Author: klarx <regis.kla@abbvie.com>
+Date:   Tue Feb 10 11:12:15 2026 +0100
+
+    adding 1.9 (ter)
+
+[33mcommit fb5922238c8054f1c567d7ab810fd9db50b412bf[m
+Author: klarx <regis.kla@abbvie.com>
+Date:   Tue Feb 10 11:11:43 2026 +0100
+
+    adding 1.9 (bis)
+
+[33mcommit f626516e6afa55a4848da17ec9d7cb4d38523791[m
+Author: klarx <regis.kla@abbvie.com>
+Date:   Tue Feb 10 11:10:55 2026 +0100
+
+    adding 1.9
+
+[33mcommit 5bd5750155f9ac163e1465d829518008bbf7748b[m
+Author: klarx <regis.kla@abbvie.com>
+Date:   Tue Feb 10 10:20:33 2026 +0100
+
+    commit before creating new branch
+
+[33mcommit b5b621c0fdff9e59b445e9dd6df01bb7bc33b7c3[m
+Merge: 6973a8f 7875c9d
+Author: klarx <regis.kla@abbvie.com>
+Date:   Tue Feb 10 10:14:29 2026 +0100
+
+    resolving merge conflicts
+
+[33mcommit 6973a8f0ac63b4bf682281dab4991fc4cc775a15[m
+Author: klarx <regis.kla@abbvie.com>
+Date:   Tue Feb 10 10:06:41 2026 +0100
+
+    simple commit
+
+[33mcommit e6fda21386ee70fe3cf2eb86f3977ecddb94ae42[m
+Author: klarx <regis.kla@abbvie.com>
+Date:   Tue Feb 10 09:57:11 2026 +0100
+
+    1.3
+
+[33mcommit a3cc3afd5ca0a837d4f53a3f1828278cc7d92da9[m
+Author: klarx <regis.kla@abbvie.com>
+Date:   Tue Feb 10 09:49:30 2026 +0100
+
+    adding my-setup.txt
+
+[33mcommit 582e917fd7c90042dd80c26302744663fa0c5fd2[m
+Merge: 5cce148 95c0af1
+Author: Régis Kla Consulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 23:31:28 2026 +0100
+
+    Merge pull request #1 from regisklaconsulting/feature/rkla
+    
+    Feature/rkla
+
+[33mcommit 95c0af1567c153f6fdc7b3a584e1102048b1e4a0[m
+Author: regisklaconsulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 23:29:54 2026 +0100
+
+    1.9
+
+[33mcommit 408e100b1a59e3ccfd91d6f4b9896312fb4310bb[m
+Author: regisklaconsulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 23:29:16 2026 +0100
+
+    1.9
+
+[33mcommit ffc647ddcff212262c5878885af1d01a30d2dadf[m
+Author: regisklaconsulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 23:11:01 2026 +0100
+
+    1.7.1 and 1.7.2
+
+[33mcommit 5396c75aa648382a9990869761789e8ffadb3a57[m
+Author: regisklaconsulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 23:09:09 2026 +0100
+
+    1.7.1 and 1.7.2
+
+[33mcommit 10b24e4880862a3c6122e6925b3aeddb3ef4f627[m
+Author: regisklaconsulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 23:07:15 2026 +0100
+
+    1.7.1 and 1.7.2
+
+[33mcommit 7c6751e77bc1d778df7f0525dc169fcebaa81e0a[m
+Author: regisklaconsulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 23:03:59 2026 +0100
+
+    1.7.1
+
+[33mcommit 8367a0476aac4798b1f1a569b68d62bffa06d582[m
+Author: regisklaconsulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 23:00:53 2026 +0100
+
+    1.7.1
+
+[33mcommit 2079d268176f9418aff09ee2512464faf29ff8ca[m
+Author: regisklaconsulting <regisklaconsulting@gmail.com>
+Date:   Tue Feb 3 22:31:06 2026 +0100
+
+    1.3
+
+[33mcommit 19ec1c4df9c828a20fcaf37bb3b19d6e6389d9e1[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Jan 26 14:43:24 2026 +0000
+
+    add online IDE url; add deadline
+
+[33mcommit 7f7afef92e5572c0fde6f3ec027af89da54d636a[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Jan 26 14:43:23 2026 +0000
+
+    GitHub Classroom Autograding Workflow
+
+[33mcommit 5cce14835e66e1d05b6f92ef69a96f324b05179d[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Jan 12 19:21:53 2026 +0000
+
+    Create GitHub Classroom Autograding Workflow
+
+[33mcommit 7875c9d96b3adcdc9ea33239642613ef3e2f3720[m[33m ([m[1;31mupstream/snape[m[33m, [m[1;31morigin/snape[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Jan 12 19:21:50 2026 +0000
+
+    Initialize snape
+
+[33mcommit 9812e9fde18c41a8ea9f6fa019de62a906cf48b3[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Jan 12 19:21:49 2026 +0000
+
+    Initial commit
